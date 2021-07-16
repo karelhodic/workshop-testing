@@ -14,5 +14,8 @@
         "psr-4": {
             "IW\\Tests\\Workshop\\": "tests/"
         }
+    },
+    "scripts": {
+        "phpunit": "vendor/bin/phpunit"
     }
 }
